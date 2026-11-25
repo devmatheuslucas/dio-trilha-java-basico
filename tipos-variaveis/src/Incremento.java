@@ -6,6 +6,11 @@ public class Incremento {
         numero++;
         //numero = numero + 1;
         System.out.println(numero);
+
+        //decremento
+        numero--;
+        //numero = numero - 1;
+        System.out.println(numero);     
     }
     
 }
